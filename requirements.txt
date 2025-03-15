@@ -8,3 +8,4 @@ GitPython
 python-dotenv
 sentence-transformers
 streamlit
+langchain-pinecone
