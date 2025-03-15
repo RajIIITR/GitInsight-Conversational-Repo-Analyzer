@@ -1,0 +1,10 @@
+langchain==0.3.0
+langchain-community==0.3.0 
+langchain-google-genai==2.1.0
+tiktoken 
+langchain-chroma==0.2.2
+flask
+GitPython
+python-dotenv==1.0.1
+sentence-transformers==3.4.1
+streamlit==1.43.2

@@ -1,0 +1,5 @@
+source_code/*
+.env
+research/*
+db/*
+src/__pycache__
